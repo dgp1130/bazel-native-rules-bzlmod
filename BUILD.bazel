@@ -1,0 +1,4 @@
+exports_files(
+    ["foo.txt"],
+    visibility = ["//visibility:public"],
+)
